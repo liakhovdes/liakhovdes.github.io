@@ -26,7 +26,7 @@ body{
 
 nav{
     margin: auto;
-    width: 800px;
+    width: 600px;
     height: 50px;
 }
 .topnav{
@@ -47,7 +47,7 @@ nav{
     display: none;
 }
 .mw-100{
-    max-width: 100%;
+    max-width: 100%
 }
 .advantages__container{
     display: flex;
